@@ -1,0 +1,68 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+li {
+  float: right;
+
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 17px;
+  text-decoration: none;
+  font-size: 20;
+
+
+}
+li a:hover
+{
+  background-color: red;
+
+}
+h1
+{
+  text-align: center;
+}
+h4
+{
+  text-align: center;
+}
+p 
+{
+  text-align: center;
+}
+.contact{
+  text-align-last: ;
+}
+footer
+{
+  position: fixed;
+  bottom: 0;
+  background-color: black;
+  width: 100%;
+}
+.social icon{
+  border-radius: 100%;
+  
+}
+body{
+  background-color: ;
+}
+.profile 
+{
+  border-radius: 50%;
+}
+.socialicons a img
+{
+  border-radius: 40%;
+
+}
+.project
+{
+  display: flex;
+}
